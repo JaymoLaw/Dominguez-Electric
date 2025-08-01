@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dominguez-electric.com/sitemap.xml
